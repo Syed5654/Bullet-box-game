@@ -6,4 +6,4 @@ Welcome to the JavaScript Box Shooter Game! This simple game allows you to contr
 
 1. Use the **arrow keys** to move your character within the game area.
 2. Press the **space bar** to fire bullets.
-3. Aim to hit the static box to make it disappear.
+3. Aim to hit the enemy to make it disappear.
